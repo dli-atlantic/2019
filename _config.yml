@@ -6,14 +6,14 @@ markdown: kramdown
 highlighter: rouge
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
-base_url:  http://dli-atlantic.github.io/2019
+base_url:  http://dli-atlantic.github.io/2019/
 sass:
   sass_dir: _sass
   style: :compressed
 paginate: 5
 paginate_path: "page:num"
 ##The website description (to be used in meta tags)
-description: This is the webpage for DLI Atlantic Regional Training.
+description: This is the webpage for the 2019 DLI Atlantic Regional Training.
 ##Some frequently used keywords on your website
 keywords: Statistics Canada, DLI, Atlantic Canada, data, data librarian, research data management
 
